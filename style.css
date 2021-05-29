@@ -28,75 +28,73 @@
         top: 0;
     }
     .header_content_right .img1{
-        width:550px;
-        margin-left: -80px;
+        width:500px;
+        margin-left: -100px;
         margin-top: 50px;
     }
     .header_content_right .img2{
-        width:400px;
-        margin-top:230px;
-        margin-left: 40px;
+        width:300px;
+        margin-top:250px;
+        margin-left: 20px;
     }
     .header_content_right .img3{
         width:80px;
-       margin-left: -150px;
-       margin-top: 110px;
+       margin-left: -100px;
+       margin-top: 100px;
 
     }
     .header_content_right .img4{
         width:80px;
-        margin-left: -370px;
-        margin-top: 120px;
+        margin-left: -270px;
+        margin-top: 105px;
     }
     .header_content_right .img5{
         width:80%;
-        margin-left: -430px;
-        margin-top: 70px;
+        margin-left: -300px;
+        margin-top: 80px;
     }
 
 
     .header_content_left {
-        font-family: 'Lato', sans-serif;
-        width: 100%;
+        width: 80%;
         margin-top: 470px;
         margin-left:20px;
-        flex-wrap: wrap;
     }
     .header_content_left h1{
         font-size: 29px;
         font-weight: 700;
         flex-wrap: wrap;
-        width:100%;
+        width:90%;
     }
     .header_content_left p { 
-        width: 100%;
+        width: 90%;
         /* height: 87px; */
         margin-top: 20px;
     }
     .watch_wideo{
         display:flex;
-        margin-top:20px;
+        margin-top:60px;
         margin-left:20px;
     }
 
     /* list-2 */
 
     #list2{
-        margin-top:-150px;
+        margin-top:-120px;
     }
     .ikki-item h1{
         line-height: 50px;
-        width:90%;
+        width:70%;
     }
     .ikki-item p{
         line-height: 40px 20px;
-        width:90%;
+        width:70%;
         margin:10px;
     }
     .list-item > img{
         margin:15px;
-        width:90%;
-        margin-left: -40px;
+        width:70%;
+        margin-left: -100px;
         
     }
 
@@ -104,12 +102,20 @@
         margin-bottom: 250px;
     }
     #itemlar{
+        margin-top: 70px;
+    }
+    #itemlar ul{
        margin-top: 20px;
+       width:80%;
     }
     .li-item {
-        margin:20px 0px;
-        position:relative;
+        margin:5px 0px;
     }
+
+    .lis4{
+        width:70%;
+    }
+
 
     .li-item h3{
         font-size: 20px;
@@ -117,32 +123,43 @@
         margin-bottom:-10px;
     }
     .li-item .span1{
-        margin-left:325px;
+        margin-left:265px;
         font-size: 15px;
     }
     .li-item .span2{
-        margin-left:405px;
+        margin-left:270px;
         font-size: 15px;
     }
     .li-item .line2{
         width:100%;
     }
+    .li-item .line3{
+        width:90%;
+    }
+    .li-item .line4{
+        width:130%;
+    }
+
     .li-item .span3{
-        margin-left:380px;
+        margin-left:250px;
         font-size: 15px;
     }
     .li-item .span4{
-        margin-left:400px;
+        margin-left:250px;
         font-size: 15px;
     }
    .lin1{
-        width:80%;
+        width:95%;
+
     }
 
     /* list-3 */
 
     #main{
         margin-top:-180px;
+    }
+    .ikki-item2 h3{
+        width:90%;
     }
 
     .rasmlar{
@@ -162,12 +179,12 @@
         margin-top:50px;
         line-height: 50px;
          margin-left: 20px;
-        width:90%;
+        width:80%;
         }
 
         .box > p{
             margin:30px 20px;
-            width:90%;
+            width:80%;
             line-height: 160%;
          }
 
@@ -175,7 +192,7 @@
          display:grid;
          grid-template-columns: 400px;
          margin-top:50px;
-         margin-left: 10%;
+         margin-left: 10px;
 
             }
         
