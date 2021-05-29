@@ -5,6 +5,11 @@
         margin-top: 15px;
         margin-left:20px;
     }
+    .boshi {
+        margin: 5px auto;
+        width:90%;
+        /* background:url(./img/1-sahifa\ orqa.png); */
+    }
     .header-1_h1 {
         font-size: 25px;
         line-height: 17.5px;
@@ -168,7 +173,7 @@
     }
     .rasmlar img{
         width:70%;
-        margin:40px 20%;
+        margin:40px 10px;
         box-shadow: 0 10px 20px 10px #999;
         padding: 15px;
       
@@ -199,27 +204,42 @@
             #box-item2{
          display:grid;
          grid-template-columns: 400px;
-         margin-top:40px;
+         margin-top:20px;
+         margin-left: 10px;
+         width:100%;
             }
 
         .box-item{
-            margin-top: 20px;
+            margin-top: 10px;
+            width:65%;
          }
+         .bo-it{
+            width: 230px;
+            height: 283px;
+            margin:10px;
+            }
 
     /* list 4 */
          .navbar > .but {
-            width: 340px;
+            width: 300px;
             height: 59px;
             margin-top:30px;
-            margin-left:12%;
+            margin-left:10px;
 
+        }
+        .navbar > h3{
+         width:80%;
+        }
+        .bu1{
+            padding: 7px 15px; 
+            margin-left:5px;
         }
 
         .quti{
-            margin:40px 10%;
+            margin:40px 10px;
         }
         .quti-item{
-            width: 360px;
+            width: 300px;
             height: 613px;
         }
 
@@ -228,17 +248,19 @@
      #see{
         margin-top:50px;
     }
+    #see h1{
+        width:80%;
+    }
         #nav-bar{
-            width:90%;
+            width:70%;
             margin:0 auto;
             margin-top:50px;
             padding:10px;
     }
 
     #nav-bar{
-		width:90%;
+		width:70%;
 		height:700px;
-		margin:0 auto;
 		margin-top:50px;
 		padding:20px;
 }	
@@ -252,31 +274,31 @@ height: 87px;
 .ikki{
     position: absolute;
     left:60px;
-    top: 300px;
+    top: 350px;
     width:60%;
     height: 87px;
     color: #050C26;
     }
     .rasm1{
         position: absolute;
-        top:140px;
+        top:200px;
         left: 10px;
     }
     .rasm2{
         position: absolute;
         left:10px;
-        top: 450px;
+        top: 520px;
     }
     .pr span{
         position: absolute;
-        top:460px;
+        top:530px;
         left:120px;
         display:inline-block;
         width:150px;
     }
     .pr p{
         position: absolute;
-        top: 510px;
+        top: 580px;
         left: 120px;
         display:inline-block;
         width:150px;
@@ -286,7 +308,7 @@ height: 87px;
         width:40px;
         height:10px;
         border-radius: 5px;
-        top: 600px;
+        top: 650px;
         left: 120px;
     
     }
@@ -295,7 +317,12 @@ height: 87px;
 
     #footer{
         margin-top:70px;
-        height:850px;
+        height:950px;
+        width:85%;
     }
+    footer{
+        width:85%;
+
+        }
 
 }
